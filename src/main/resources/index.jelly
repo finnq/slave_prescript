@@ -1,0 +1,6 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  Adds the possibility to execute a shell script before a slave is launched.
+</div>
